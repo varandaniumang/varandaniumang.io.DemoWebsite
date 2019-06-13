@@ -1,3 +1,7 @@
+title : Welcome to varandaniUmang's Homepage
+description : This is varandaniumang's first GitHub Webpage!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/varandaniumang/varandaniumang.io.DemoWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
